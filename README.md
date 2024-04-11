@@ -5,8 +5,8 @@ Hello, welcome to my demo.
 [Markdown](https://github.github.com/gfm/)
 
 
-![]((https://nationalzoo.si.edu/sites/default/files/animals/cheetah-004.jpg)
+![](https://cdn.britannica.com/01/152301-050-1EF6EBB4/Cheetah.jpg)
 
-![]
+![](/dog.jpg)
 
 *[Show some animals](/animals)
