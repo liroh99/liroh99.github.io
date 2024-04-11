@@ -8,3 +8,5 @@ Hello, welcome to my demo.
 ![foo]((https://nationalzoo.si.edu/sites/default/files/animals/cheetah-004.jpg)
 
 ![]
+
+*[Show some animals](/animals)
