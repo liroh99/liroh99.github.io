@@ -4,4 +4,7 @@ Hello, welcome to my demo.
 
 [Markdown](https://github.github.com/gfm/)
 
-![]https://nationalzoo.si.edu/sites/default/files/animals/cheetah-004.jpg
+
+![foo]((https://nationalzoo.si.edu/sites/default/files/animals/cheetah-004.jpg)
+
+![]
