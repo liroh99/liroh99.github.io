@@ -1,6 +1,8 @@
 # liroh99.github.io
 ---
+layout: home
 ---
+
 
 
 Hi my name is Liron. I am currently doing my masters in the Weizmann Institute. My hobbies include reading, traveling, and sports. 
