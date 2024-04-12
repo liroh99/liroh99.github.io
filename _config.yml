@@ -3,4 +3,5 @@ plugins:
 
 remote_theme: vszhub/not-pure-poole
 
-cover-image: ![](/DNA-cover-photo.jpg)
+cover_image: '/DNA-cover-photo.jpg'
+
