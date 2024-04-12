@@ -1,11 +1,16 @@
-title: "Liron's github"
-description: "A look into science."
-cover_image: '/DNA-cover-photo.jpg'
+title: "Liron's GitHub Page"
+description: "A look into science, my hobbies, and more."
+baseurl: "" # the subpath of your site, e.g., /blog if your site is at example.com/blog
+url: "" # the base hostname & protocol for your site, e.g., http://example.com
+theme: minima # or any other theme you're using
 
+# Plugins
 plugins:
   - jekyll-remote-theme
 
-remote_theme: vszhub/not-pure-poole
+# Theme Settings
+remote_theme: vszhub/not-pure-poole # Assuming you're using this theme
 
+# Include README.md in the build
 include:
   - README.md
