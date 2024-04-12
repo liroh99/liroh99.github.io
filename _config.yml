@@ -1,9 +1,10 @@
+include:
+  - README.md
+  
 plugins:
   - jekyll-remote-theme
 
 remote_theme: vszhub/not-pure-poole
-include:
-  - README.md
 title: "Liron's github"
 description: "A look into science."
 cover_image: '/DNA-cover-photo.jpg'
