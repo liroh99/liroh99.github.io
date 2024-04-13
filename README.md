@@ -1,6 +1,6 @@
 # liroh99.github.io
 
-Hello, welcome to my demo.
+Hi, my name is Liron. I am currently doing my master's at the Weizmann Institute. My hobbies include reading, traveling, and sports. This website is still a work in progress.
 
 [Markdown](https://github.github.com/gfm/)
 
