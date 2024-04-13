@@ -8,4 +8,4 @@ plugins:
 remote_theme: vszhub/not-pure-poole
 
 include:
-  - README.md
+  - index.mdk
