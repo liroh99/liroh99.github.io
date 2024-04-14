@@ -4,18 +4,16 @@ title: Home Page
 ---
 
 ## Introduction
-Hi, I'm Liron! I'm a master's student at the Weizmann Institute, specializing in [Your Specialization]. My work focuses on [a brief overview of your research interests].
-
+Hi, I'm Liron! I'm a master's student at the Weizmann Institute, currently doing my lab rotations. 
 ## Background
-I completed my undergraduate degree in [Your Degree] at [Your University], where I [mention any special projects, achievements, or involvements].
+I completed my undergraduate degree in Biomedical Science at The Hebrew University, where I learned much about scientific research in human disease from a medical standpoint.  
 
 ## Research Interests
-My research interests include [List of Interests]. I am particularly fascinated by [specific aspect], and I've worked on [brief mention of any projects or publications].
+My research interests include molecular biology and systems biology to tackle complex problems such as cancer development and understanding its microenvironment. 
 
 ## Outside the Lab
-When I'm not in the lab, I enjoy [hobbies], [other hobbies], and [more hobbies]. These activities [a sentence on how these hobbies contribute to your life or work].
-
+When I'm not in the lab, I enjoy reading, writing and going on walks. These activities help me unwind from the day's work. 
 ## Let's Connect
-If my work interests you or if you have any questions, don't hesitate to reach out at [Your Email] or follow me on [LinkedIn/Twitter/etc.].
+If my work interests you or if you have any questions, don't hesitate to reach out at liron151@gmail.com or follow me on [LinkedIn/Twitter/etc. (will add once I have a linkedin].
 
 
