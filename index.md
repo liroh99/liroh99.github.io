@@ -13,6 +13,9 @@ My research interests include molecular biology and systems biology to tackle co
 
 ## Outside the Lab
 When I'm not in the lab, I enjoy reading, writing and going on walks. These activities help me unwind from the day's work. 
+
+![](/liron's_profile_pic.jpeg)
+
 ## Let's Connect
 If my work interests you or if you have any questions, don't hesitate to reach out at liron151@gmail.com or follow me on [LinkedIn/Twitter/etc. (will add once I have a linkedin].
 
