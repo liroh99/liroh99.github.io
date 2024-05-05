@@ -6,7 +6,6 @@ title: Home Page
 ## Introduction
 Hi, I'm Liron! I'm a master's student at the Weizmann Institute, currently doing my lab rotations. 
 Right now I'm doing my second rotation in Ofer Shoshani's lab: 
-<a href="https://www.weizmann.ac.il/Biomolecular_Sciences/Shoshani/home">Lab webpage</a>
 [Lab Webpage](https://www.weizmann.ac.il/Biomolecular_Sciences/Shoshani/home)
 
 ## Background
