@@ -6,7 +6,8 @@ title: Home Page
 ## Introduction
 Hi, I'm Liron! I'm a master's student at the Weizmann Institute, currently doing my lab rotations. 
 Right now I'm doing my second rotation in Ofer Shoshani's lab: 
-[Lab Webpage]((https://www.weizmann.ac.il/Biomolecular_Sciences/Shoshani/home))
+<a href="https://www.weizmann.ac.il/Biomolecular_Sciences/Shoshani/home">Lab webpage</a>
+[Lab Webpage](https://www.weizmann.ac.il/Biomolecular_Sciences/Shoshani/home)
 
 ## Background
 I completed my undergraduate degree in Biomedical Science at The Hebrew University, where I learned much about scientific research in human disease from a medical standpoint.  
