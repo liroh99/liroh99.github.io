@@ -5,8 +5,10 @@ title: Home Page
 
 ## Introduction
 Hi, I'm Liron! I'm a master's student at the Weizmann Institute, currently doing my lab rotations. 
-Right now I'm doing my second rotation in Ofer Shoshani's lab: 
+Recently, I was doing my second rotation in Ofer Shoshani's lab, focusing on evolution of gene amplification in cancer.
 [Lab Webpage](https://www.weizmann.ac.il/Biomolecular_Sciences/Shoshani/home)
+Now, my last rotation is in Yonatan Stelzer's lab, which focuses on epigentic regulation in embryonic development. 
+[Lab Webpage](https://www.weizmann.ac.il/mcb/Stelzer/)
 
 ## Background
 I completed my undergraduate degree in Biomedical Science at The Hebrew University, where I learned much about scientific research in human disease from a medical standpoint.  
@@ -20,6 +22,6 @@ When I'm not in the lab, I enjoy reading, writing and going on walks. These acti
 ![](/liron's_profile_pic.jpeg)
 
 ## Let's Connect
-If my work interests you or if you have any questions, don't hesitate to reach out at liron151@gmail.com or follow me on [LinkedIn/Twitter/etc. (will add once I have a linkedin].
+If my work interests you or if you have any questions, don't hesitate to reach out at liron.hoffman@
 
 
