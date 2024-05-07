@@ -19,4 +19,6 @@ When I'm not in the lab, I enjoy reading, writing and going on walks. These acti
 ## Let's Connect
 If my work interests you or if you have any questions, don't hesitate to reach out at liron.hoffman@weizmann.ac.il
 
+## WIS python programming course
+If you're interested in viewing my assignment solutions, you can take a look here [solution repository](https://github.com/liroh99/Assignments)
 
